@@ -1,4 +1,4 @@
-# Shows SQL Analytic functions examples executed in Invetory datawarehouse. For examp[le:
+# Shows SQL Analytic functions examples executed in Invetory datawarehouse. For example:
 #1. Ranking within the entire result
 #2. Ranking within a partition
 #3. Ranking and dense ranking within the entire result
